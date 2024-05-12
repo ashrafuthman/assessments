@@ -1,3 +1,4 @@
+// Arrays and Objects
 // Create an object representing a book with properties for title, author, and the method getDetails which logs details about the book.
 
 // let book = {

@@ -1,3 +1,4 @@
+// Functions
 // Task: Write a function to calculate the area of a rectangle.
 
 // function calculateArea(width, height)
